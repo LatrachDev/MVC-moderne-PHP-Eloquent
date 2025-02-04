@@ -1,0 +1,19 @@
+{
+    "name": "latrachdev/mvc-moderne-php-eloquent",
+    "description": "A modern MVC architecture built with PHP and Eloquent ORM",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Latrachdev\\MvcModernePhpEloquent\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LatrachDev",
+            "email": "m.latrach.youcode@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
